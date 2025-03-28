@@ -1,6 +1,6 @@
 import { test, expect } from 'vitest'
 // @ts-expect-error: Module export on comment
-import twistList from '../twistedList/problem';
+import twistList from './problem';
 
 if (twistList) {
   test('Test case 1', () => {
