@@ -48,7 +48,7 @@
 
 */
 
-// Uncomment the function and wordsSearch the code inside, run 'npm run test' to test your code
+// Uncomment the function the code inside, run 'npm run test' to test your code
 // export default function wordsSearch(grid: string[][], words: string[]): number[] {
   
 // }
