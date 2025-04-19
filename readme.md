@@ -21,7 +21,9 @@ Welcome to the Code Challenges Project! This repository contains a collection of
 
 ## Contributing
 
-Contributions are welcome! If you have a new challenge or an improvement to an existing one, feel free to submit a pull request.
+Contributions are welcome!
+If you have a new challenge or an improvement to an existing one, feel free to submit a pull request.
+The benefits: You can practice problem-solving and testing methods at the same time!
 
 ## License
 
