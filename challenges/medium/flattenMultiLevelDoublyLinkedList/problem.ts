@@ -58,45 +58,8 @@ export class ListNode {
         this.child = (child===undefined ? null : child);
     }
 }
- 
 
+// Uncomment the function the code inside, run 'npm run test' to test your code
+// export function flatten(head: ListNode | null): ListNode | null {
 
-export function flatten(head: ListNode | null): ListNode | null {
-
-  if (!head) {
-      return head;
-  }
-
-  function flattenDFS(node: ListNode) {
-      let current = node;
-
-      while (current) {
-          let next = current.next;
-
-          if (current.child) {
-              const tail = flattenDFS(current.child);
-              current.next = current.child;
-              current.child.prev = current;
-
-              if (next) {
-                  next.prev = tail;
-              }
-
-              tail.next = next;
-              current.child = null;
-              continue;
-          }
-          
-          if (!current.next) {
-              break;
-          }
-          
-          current = current.next;
-      }
-
-      return current;
-  }
-
-  flattenDFS(head);
-  return head;
-};
+// };
