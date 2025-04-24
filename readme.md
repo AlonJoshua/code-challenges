@@ -19,6 +19,26 @@ Welcome to the Code Challenges Project! This repository contains a collection of
 5. Run 'npm run test' to check if you passed all the test cases for the problem.
 6. Use 'solution.ts' to learn about brute force solution and the optimal solution for the problem.
 
+## Challenges List
+- **Easy level**
+  - **Arrays**
+    - [Twist a list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/twistedList)
+  - **Strings**
+    - [Is string palindrome](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/isPalindrome)
+  - **Linked list**
+    - [Reverse linked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/reverseLinkedList)
+
+- **Medium level**
+  - **Strings**
+    - [Longest substring without repeat](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/LongestSubstringWithoutRepeat)
+  - **Linked list**
+    - [Reverse sublinked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/reverseSubLinkedList)
+    - [Flatten multilevel doubly linked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/flattenMultiLevelDoublyLinkedList)
+
+- **Hard level**
+  - **Arrays**
+    - [Words search](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/hard/wordsSearch)
+
 ## Contributing
 
 Contributions are welcome!
