@@ -47,8 +47,8 @@ function detectCycle2(head: ListNode | null): ListNode | null {
       }
     }
   
-    if (!hare.next?.next && !hare.next) {
-      return null;
+    if (!hare || !hare.next) {
+        return null
     }
   
     hare = head;
