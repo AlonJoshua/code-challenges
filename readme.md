@@ -34,6 +34,7 @@ Welcome to the Code Challenges Project! This repository contains a collection of
   - **Linked list**
     - [Reverse sublinked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/reverseSubLinkedList)
     - [Flatten multilevel doubly linked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/flattenMultiLevelDoublyLinkedList)
+    - [Detect cycle](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/LinkedListCycleCheck)
 
 - **Hard level**
   - **Arrays**
