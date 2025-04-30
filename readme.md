@@ -27,6 +27,8 @@ Welcome to the Code Challenges Project! This repository contains a collection of
     - [Is string palindrome](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/isPalindrome)
   - **Linked list**
     - [Reverse linked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/reverseLinkedList)
+  - **Stacks**
+    - [Is valid parentheses](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/isValidParentheses)
 
 - **Medium level**
   - **Strings**
