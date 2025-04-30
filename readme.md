@@ -38,7 +38,7 @@ Welcome to the Code Challenges Project! This repository contains a collection of
     - [Flatten multilevel doubly linked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/flattenMultiLevelDoublyLinkedList)
     - [Detect cycle](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/LinkedListCycleCheck)
   - **Stacks**
-    [Minimum Remove to Make Valid Parentheses](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/minRemoveToMakeValid)
+    - [Minimum Remove to Make Valid Parentheses](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/medium/minRemoveToMakeValid)
 
 - **Hard level**
   - **Arrays**
