@@ -45,6 +45,13 @@ Welcome to the Code Challenges Project! This repository contains a collection of
 Contributions are welcome!
 If you have a new challenge or an improvement to an existing one, feel free to submit a pull request.
 The benefits: You can practice problem-solving and testing methods at the same time!
+Make sure to follow those PR rules in case of adding a new challenge:
+- Adding a folder of the challenge at the appropriate level
+- The folder containing the next files:
+  - problem.ts - The challenge file
+  - problem.test.ts - The tests file
+  - solution.ts - the file holding the final possible solutions
+- Update the readme.md with the new challenge with a reference to it
 
 ## License
 
