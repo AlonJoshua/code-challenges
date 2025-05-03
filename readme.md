@@ -29,6 +29,8 @@ Welcome to the Code Challenges Project! This repository contains a collection of
     - [Reverse linked list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/reverseLinkedList)
   - **Stacks**
     - [Is valid parentheses](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/isValidParentheses)
+  - **Queues**
+    - [Build a queue](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/buildQueue)
 
 - **Medium level**
   - **Strings**
