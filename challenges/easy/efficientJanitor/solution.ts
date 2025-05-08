@@ -1,4 +1,4 @@
-export function minimunJanitorTrips(N: number[]): number {
+export function minimumJanitorTrips(N: number[]): number {
 
   if (N.length === 1) {
     return 1;

@@ -22,7 +22,7 @@
 */
 
 // Uncomment the function the code inside, run 'npm run test' to test your code
-export function minimunJanitorTrips(N: number[]): number {
+export function minimumJanitorTrips(N: number[]): number {
 
   if (N.length === 1) {
     return 1;
