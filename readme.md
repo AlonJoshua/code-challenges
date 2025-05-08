@@ -23,6 +23,7 @@ Welcome to the Code Challenges Project! This repository contains a collection of
 - **Easy level**
   - **Arrays**
     - [Twist a list](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/twistedList)
+    - [Efficient Janitor](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/efficientJanitor)
   - **Strings**
     - [Is string palindrome](https://github.com/AlonJoshua/code-challenges/tree/main/challenges/easy/isPalindrome)
   - **Linked list**
